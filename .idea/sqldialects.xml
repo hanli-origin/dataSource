@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/main/resources/config/mappers/Test1Mapper.xml" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/config/mappers2/Test2Mapper.xml" dialect="MySQL" />
+  </component>
+</project>

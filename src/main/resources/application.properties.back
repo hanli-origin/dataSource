@@ -1,0 +1,11 @@
+#oracle
+jdbc.driver=oracle.jdbc.OracleDriver
+jdbc.url=jdbc:oracle:thin:@1localhost:1521:dev
+jdbc.username=ling
+jdbc.password=229
+
+#mysql
+jdbc-mysql.driver=com.mysql.jdbc.Driver
+jdbc-mysql.url=jdbc:mysql://localhost:3306/test
+jdbc-mysql.username=root
+jdbc-mysql.password=229
